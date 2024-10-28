@@ -9,6 +9,8 @@ tags:
 lang: en
 ---
 
+# RSpec and exceptions
+
 Today I learnt that these two tests are, not only non-functionally different, but functionally different too:
 
 ```ruby

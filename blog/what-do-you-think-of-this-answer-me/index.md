@@ -6,6 +6,8 @@ tags:
 lang: en
 ---
 
+# What do you think of this? ANSWER ME!
+
 Yesterday at work we all received an email telling us to expect the annual Staff Survey next week, and encouraging us all to participate.
 
 I both look forward to this, and I dread it. I look forward to it partly because I know that _surely participating must be a good thing_, but also partly because I expect it’ll be dreadful and I’ll enjoy the awfulness of it. A case of _autoschadenfreude_, apparently.
@@ -16,7 +18,7 @@ As the author of a survey, you get to choose what questions are asked, in what o
 
 Survey authors should think very carefully about making any responses mandatory. It’s almost always a terrible idea.
 
-# Why a respondent might not answer a question
+## Why a respondent might not answer a question
 
 Let’s look at the possible reasons that a user might press the next button before they answered some question or other.
 
@@ -34,7 +36,7 @@ _They’d rather not say_: So many reasons for this. People have a right not to 
 
 In each of those cases, when the respondent encounters such a question to which your survey _requires_ an answer, but the respondent is unable or unwilling to provide one, what happens next?
 
-# Don’t make me lie to you
+## Don’t make me lie to you
 
 At this point the respondent has several options:
 
@@ -44,7 +46,7 @@ At this point the respondent has several options:
 - They could lie.
 - They could just type in garbage. Click multiple-choice options at random. Fill in whichever response requires the fewest keypresses and the least mouse movement. Basically they could fill in _anything_ into your survey just to make that damn annoying “you didn’t answer this question” nag _go away!_
 
-# Woohoo, people filled in your survey!
+## Woohoo, people filled in your survey!
 
 Congratulations, people completed your survey, and now you’ve got their answers.
 
@@ -62,7 +64,7 @@ Good luck analysing that.
 
 _The more limited responses your survey allows, the more wrong the results will be._
 
-# What just happened?
+## What just happened?
 
 So where did it all go wrong? Why did you choose to create such an awful survey, leading to such meaningless results?
 
@@ -74,7 +76,7 @@ OK then. Well, you might have deliberately chosen to make the responses mandator
 
 Survey makers seem to believe that mandatory responses is the “easy option” — easier to construct the survey, easier to analyse the data. But this comes at the expense both of skewing the data, _and_ placing additional burden on the respondents. In effect, the message you’re sending the respondents is: “my time is more important than yours”.
 
-# All rules have exceptions
+## All rules have exceptions
 
 That said, there are cases where sometimes, despite all those reasons, it’s still OK to make a response mandatory.
 
@@ -84,7 +86,7 @@ For example:
 - The respondent has indicated — perhaps via an earlier question — that they want some sort of reply or feedback from you, therefore you need to have a way of contacting the respondent. (In this case, the respondent has effectively opted in to making the response mandatory).
 - The respondent has indicated — again, via an earlier question — that they are willing to provide the answer. “Do you have any other comments to make &#x5b;y/n]” — and if yes, then it’s reasonable to make the comments box mandatory.
 
-# Thanks for your time
+## Thanks for your time
 
 Designing a good survey isn’t a trivial task, but you should think long and hard before making responses mandatory. And if you’ve made _all_ the responses mandatory, you should _really_ think long and hard.
 
