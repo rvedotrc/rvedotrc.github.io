@@ -1,6 +1,4 @@
 ---
-source: root-dir
-show_dir_listing: false
 title: The most amazing site on the Internet
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
