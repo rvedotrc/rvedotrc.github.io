@@ -1,3 +1,2 @@
-_A low-effort (tm) web site_
-
+- [Blog](./blog/)
 - [Hexagons](https://blaahaj.github.io/hexagons/)
